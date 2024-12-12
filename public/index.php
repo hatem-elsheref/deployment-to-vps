@@ -1,3 +1,3 @@
 <h1>
-    Hello Business Hatem
+    Admin Panel
 </h1>
